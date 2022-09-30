@@ -1,4 +1,6 @@
 # primer-pull
 Este registro es una prueba con el que queremos practicar y apredner mas con el manejo de Git
 
-wklkkddñdlejdhnla,CS,.ñfvñ{}
+este es un cambio
+
+cambios dos
